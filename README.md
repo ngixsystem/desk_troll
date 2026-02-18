@@ -2,6 +2,7 @@
 
 ![20260218-0548-10 9694793](https://github.com/user-attachments/assets/5662e535-d408-45fe-9795-6d700dc1ce78)
 ![20260218-0551-26 6683674](https://github.com/user-attachments/assets/8cb9e48c-f603-47f1-8da8-2ac60029e545)
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/b92434a3-f2a6-4df5-a758-8b6121aa4fa3" />
 
 > **Пранк-приложение для Windows**: анимированные персонажи бегают по рабочему столу, «крадут» ярлыки, а мышь начинает жить своей жизнью.
 

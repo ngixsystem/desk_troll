@@ -1,0 +1,4 @@
+PyQt6
+mss
+Pillow
+pywin32

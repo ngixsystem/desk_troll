@@ -1,0 +1,9 @@
+# Sprite sheet layout (3 columns x 3 rows = 9 frames):
+# Row 1: Running frames (3 frames)
+# Row 2: Jumping/celebrating frames (3 frames)  
+# Row 3: Walking frames (3 frames)
+
+# Frame mapping:
+# 0-2: Running (for WALK state)
+# 3-5: Jumping/Celebrating (for STEAL state)
+# 6-8: Walking/Idle (for IDLE and EXIT states)
